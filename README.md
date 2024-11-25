@@ -48,3 +48,4 @@ If you have any questions or want to get in touch, feel free to reach out to us.
 
 ### License
 EcoQuest is open-source under the MIT LICENSE.
+![Timeline 2 (1)](https://github.com/user-attachments/assets/479c1f4b-f8ff-45d0-bb23-a504ba915abd)
