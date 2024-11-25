@@ -28,6 +28,7 @@ The game features a repeating cycle: after completing tasks in the present, play
 - **Unity**: The game is built using the Unity engine.
 - **C#**: The primary programming language used to develop the game.
 - **Asset Pack**: https://pixel-boy.itch.io/ninja-adventure-asset-pack
+- **GIMP**
 
 ## Goal of the Game
 EcoQuest’s ultimate message is clear: **small, incremental actions today can lead to a more sustainable tomorrow**. By reducing carbon footprints, conserving biodiversity, and focusing on eco-friendly practices, we can collectively ensure a healthier planet for future generations.
